@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm N Lohith Reddy</h1>
+<h1 align="center">Hello👋, I'm N Lohith Reddy</h1>
 <h3 align="center">Computer Science & AI/ML undergraduate 🎓 | Coding and creating with a passion for technology 💻🤖 | On a quest for knowledge and innovation #CS #AI #ML #TechEnthusiast</h3>
 
 
